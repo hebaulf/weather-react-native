@@ -2,7 +2,7 @@
 
 This project is a React Native app. Set up using [Expo](https://expo.dev/).  
 I created a very simple weather app, using OpenWeather API, that displays on one screen the current weather at your location.  
-For fun I created the logo from a Unicon icon and font using Figma.  
+For fun I created the logo from a Unicon icon and font using Figma, which you can see in the assets folder in this repo.  
 You can view the code here on Github.  
 The live app is on Expo Go Apps but can only be viewed by invitation to the project. 
 

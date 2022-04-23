@@ -1,12 +1,13 @@
 {
   "expo": {
-    "name": "weather-app-react-native",
-    "slug": "weather-app-react-native",
+    "name": "weather Now",
+    "slug": "weather-now",
+    "description": "Simple weather app that shows you the current weather at your location",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weather-icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/weather-icon-splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

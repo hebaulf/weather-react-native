@@ -31,7 +31,7 @@ cd weather-react-native
 ```
 npm install
 ```
-- or -
+  or
 ```
 yarn
 ```
@@ -40,7 +40,7 @@ yarn
 ```
 npm run start
 ```
-- or -
+  or
 ```
 yarn start
 ```

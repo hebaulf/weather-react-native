@@ -17,17 +17,17 @@ This project is a React Native app. Set up using [Expo](https://expo.dev/). I cr
 
 ## To view the app locally (You will need a Mac and Xcode to do this)
 
-#### Clone the app to a folder on your computer
+#### Clone the app to a folder on your computer:
 ```
 git clone https://github.com/hebaulf/weather-react-native.git
 ```
 
-#### Go to the app folder
+#### Go to the app folder:
 ```
 cd weather-react-native
 ```
 
-#### install dependencies
+#### install dependencies:
 ```
 npm install
 ```
@@ -36,7 +36,7 @@ npm install
 yarn
 ```
 
-#### Run the app
+#### Run the app:
 ```
 npm run start
 ```

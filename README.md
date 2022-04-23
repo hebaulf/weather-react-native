@@ -13,7 +13,7 @@ The live app is on Expo Go Apps but can only be viewed by invitation to the proj
 
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/hebaulf/prismic-blog/main/public/static/images/blog-screenshot.png" alt="Screenshots of the site seen on deskop and mobile browsers" />
+<img src="https://raw.githubusercontent.com/hebaulf/weather-react-native/main/assets/weather-app-screenshot.png" alt="Screenshot of the app" />
 
 &nbsp;
 

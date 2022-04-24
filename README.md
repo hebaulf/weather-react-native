@@ -45,6 +45,10 @@ npm run start
 yarn start
 ```
 
+#### Create a .env file in the root of the project and add the variable WEATHER_API_KEY
+- Contact me for the API key 
+- or you could sign up for OpenWeather API and pur your own key
+
 #### Open localhost:19002 in your browser   
 #### Select "Run on IOS sumulator"
 - You may need to open Xcode Simulator on your computer
